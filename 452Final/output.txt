@@ -1,0 +1,12 @@
+--,1
+Sly,20
+Piney,2
+Hedgehog,4
+Beulah,1
+Papa,3
+Rabbit,20
+Woods,2
+Eedgehog,1
+Murrelle,1
+Mama,2
+Fox,22

@@ -1,0 +1,4 @@
+Filename Read: ironbark.txt
+Letter count = 2256 (ignore case)
+Word count = 567
+Line count = 65 (including blank lines between paragraphs)
